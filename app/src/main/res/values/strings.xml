@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">randomizer</string>
+    <string name="button_text">random</string>
+</resources>
